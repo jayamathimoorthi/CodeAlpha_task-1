@@ -1,0 +1,36 @@
+ WEB SCRABING
+
+Project Overview
+
+This project is completed as part of the CodeAlpha Data Analytics Internship.
+
+The objective of this task is to collect book-related information from a website using Web Scraping techniques and store the collected data in a structured format.
+
+Objective
+
+- Scrape book information from a website.
+- Extract relevant details such as title, price, rating, and availability.
+- Store the collected data in a CSV file.
+- Prepare the dataset for further analysis.
+
+Technologies Used
+
+- Python
+- Pandas
+- Requests
+- BeautifulSoup
+- Google Colab
+
+Data Collected
+
+The dataset contains the following information:
+
+- Book Title
+- Price
+- Rating
+- Availability
+
+Output
+
+The scraped book data was collected and stored in a CSV dataset for further data analysis.
+
